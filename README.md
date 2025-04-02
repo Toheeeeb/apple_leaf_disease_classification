@@ -1,4 +1,5 @@
 🍏 **Apple Leaf Disease Classification** 🌿
+
 🌱 **Introduction**
 
 Biodiversity conservation isn't just about protecting forests and wildlife—it starts at the leaf level. Apple trees, like many other plant species, are vital to ecosystems and agriculture. However, leaf diseases threaten their health, impacting biodiversity and agricultural productivity. This project leverages Deep Learning to classify apple leaf diseases, contributing to Biodiversity Net Gain (BNG) efforts by enabling early disease detection and intervention.
